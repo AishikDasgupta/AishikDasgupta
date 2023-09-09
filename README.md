@@ -1,3 +1,4 @@
+![logo](https://github.com/AishikDasgupta/AishikDasgupta/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, This is Aishik Dasgupta</h1>
 <h3 align="center">Securing Data, Unleashing Insights, and Crafting AI Magic 🛡️📊🤖</h3>
 
