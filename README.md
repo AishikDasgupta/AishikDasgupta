@@ -37,8 +37,6 @@
 
 <h3 align="left">TryHackMe Badge:</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/itsdg19.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/2202392"></script>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishikdasgupta&show_icons=true&locale=en&layout=compact" alt="aishikdasgupta" /></p>
 
