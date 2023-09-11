@@ -43,3 +43,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishikdasgupta&show_icons=true&locale=en" alt="aishikdasgupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishikdasgupta&" alt="aishikdasgupta" /></p>
+
+<style>
+  body {
+    background-color: #000; 
+    color: #fff;
+  }
+  
+  img {
+    border-radius: 2%;
+  }
+  
+  h1, h3 {
+    text-shadow: 0 0 10px rgba(255,255,255,0.5); 
+  }
+
+  p {
+    color: #ddd;
+  }
+</style>
