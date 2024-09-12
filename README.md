@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://aishik-dasgupta.super.site/blogs](https://aishik-dasgupta.super.site/blogs)
 
-- 💬 Ask me about **Cybersecurity, Data Science, Machine learning**
+- 💬 Ask me about **Cybersecurity, Data Science, Web Development**
 
 - 📫 How to reach me **itsdg19@gmail.com**
 
