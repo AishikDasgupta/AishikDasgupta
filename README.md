@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **Student Internships**
+- 🤝 I’m looking for help with **Job Openings**
 
 - 👨‍💻 All of my projects are available at [https://aishik-dasgupta.super.site/](https://aishik-dasgupta.super.site/)
 
