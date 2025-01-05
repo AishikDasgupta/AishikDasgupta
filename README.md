@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, This is Aishik Dasgupta</h1>
 <h3 align="center">Code explorer, problem solver, and lifelong learner 🚀 | Building with curiosity and care 🌟</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishikdasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="aishikdasgupta" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishikdasgupta" alt="aishikdasgupta" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 
 - 🔭 I’m currently pursuing **BTech in Computer Science**
